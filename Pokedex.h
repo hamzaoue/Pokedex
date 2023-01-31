@@ -1,23 +1,16 @@
 #pragma once
 #include <SDL.h>
+#include <SDL_ttf.h>
 #include <SDL_image.h>
 #include <SDL_mixer.h>
-#include <SDL_ttf.h>
-#include <string>
-#include <fstream>
 #include <filesystem>
-#include <iostream> 
-#include <vector>
-#include <map>
-#include <iostream>
 #include <fstream>
-#include <vector>
-#include < functional >
+#include <string>
+#include <map>
 constexpr int frame_width = 256;
 constexpr int frame_height = 192;
 constexpr int FPS = 60;
 struct Point{ int x, y;};
-struct Dimension{int width, height;};
 //*****************************************************************************
 //*************************** POKEMON_SPECIES *********************************
 //*****************************************************************************

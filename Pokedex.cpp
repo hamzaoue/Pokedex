@@ -83,8 +83,6 @@ Pokedex::Pokedex(SDL_Renderer* renderer, std::string region,std::string folder)
 	this->textures_["Scroll"] = IMG_LoadTexture(this->renderer_, "Images/Scroll.png");
 	this->textures_["Owned"] = IMG_LoadTexture(this->renderer_, "Images/Owned.png");
 	this->textures_["Owned2"] = IMG_LoadTexture(this->renderer_, "Images/Owned2.png");
-	this->textures_["Background2"] = IMG_LoadTexture(this->renderer_, "Images/Background2.png");
-	this->textures_["Cache2"] = IMG_LoadTexture(this->renderer_, "Images/Cache2.png");
 	this->init(folder);
 }
 /////////////////////////////////////////////
