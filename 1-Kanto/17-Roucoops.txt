@@ -1,0 +1,6 @@
+Name_Fr:Roucoops
+Name_Eng:
+Concept:Nintendo
+Front_Sprite:Nintendo
+Back_Sprite:Nintendo
+Icon_Sprite:Nintendo

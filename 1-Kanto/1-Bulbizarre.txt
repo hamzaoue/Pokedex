@@ -1,0 +1,6 @@
+Name_Fr:Bulbizarre
+Name_Eng:Bulbasaur
+Concept:Nintendo
+Front_Sprite:Nintendo
+Back_Sprite:Nintendo
+Icon_Sprite:Nintendo

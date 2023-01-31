@@ -1,0 +1,6 @@
+Name_Fr:Dracaufeu
+Name_Eng:Charizard
+Concept:Nintendo
+Front_Sprite:Nintendo
+Back_Sprite:Nintendo
+Icon_Sprite:Nintendo

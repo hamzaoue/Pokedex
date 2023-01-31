@@ -1,0 +1,6 @@
+Name_Fr:Reptincel
+Name_Eng:Charmeleon
+Concept:Nintendo
+Front_Sprite:Nintendo
+Back_Sprite:Nintendo
+Icon_Sprite:Nintendo

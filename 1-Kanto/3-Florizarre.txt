@@ -1,0 +1,6 @@
+Name_Fr:Florizarre
+Name_Eng:Venusaur
+Concept:Nintendo
+Front_Sprite:Nintendo
+Back_Sprite:Nintendo
+Icon_Sprite:Nintendo

@@ -1,0 +1,6 @@
+Name_Fr:Herbizzare
+Name_Eng:Ivysaur
+Concept:Nintendo
+Front_Sprite:Nintendo
+Back_Sprite:Nintendo
+Icon_Sprite:Nintendo

@@ -1,0 +1,6 @@
+Name_Fr:Salameche
+Name_Eng:Charmander
+Concept:Nintendo
+Front_Sprite:Nintendo
+Back_Sprite:Nintendo
+Icon_Sprite:Nintendo
